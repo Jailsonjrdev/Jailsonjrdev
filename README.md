@@ -5,6 +5,7 @@
 Olá, me chamo Jailson, sou graduado em Ciência da Computação. Estou em busca de uma oportunidade com o objetivo de somar à equipe e crescer ainda mais como profissional e estou focado em seguir carreira como Desenvolvedor Front-End.
 
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -56,10 +57,13 @@ Olá, me chamo Jailson, sou graduado em Ciência da Computação. Estou em busca
 <br/>
 <br/>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/jailsonjuniordev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
 ---
 
 ### 📊 Estatísticas
-
 
 
 <p>
@@ -79,3 +83,4 @@ Olá, me chamo Jailson, sou graduado em Ciência da Computação. Estou em busca
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
 />
 </p>
+
